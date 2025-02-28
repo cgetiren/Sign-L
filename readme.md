@@ -39,7 +39,7 @@ Upon launching the application, enable your camera to start recognizing sign lan
 
 ## Visual
 
-![Sign Language Translator](https://i.ibb.co/4wBfhM9C/Ads-z.png)
+![Adsız](https://github.com/user-attachments/assets/07eea614-dfd9-49da-b7bc-71950097b50a)
 
 ## Contributing
 
